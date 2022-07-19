@@ -13,4 +13,6 @@ on your computer
   make install
 ### to run
   bin/xo
+  
+  
 ![xo image](xo.png)
